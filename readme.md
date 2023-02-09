@@ -11,7 +11,7 @@
 	* Dropout Rate: *25%*
 	* Optimizer: *Adam Optimizer*
 * Figures
-	* !(example.png)
+	* ![A Correct Label](https://github.com/leharris3/MNIST-Image-Classification/blob/master/MNIST%20Digit%20Classification/example.png)
 	
 
 
